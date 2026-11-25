@@ -58,7 +58,7 @@ Open-ended problems that apply those concepts, sorted by Exercism's difficulty r
 | [Sum of Multiples](solutions/go/sum-of-multiples/1/) | 3 | `variadic-functions` |
 | [Baffling Birthdays](solutions/go/baffling-birthdays/1/) | 4 | `randomness` |
 | [Ledger](solutions/go/ledger/1/) | 5 | `string-formatting` |
-| [Linked List](solutions/go/linked-list/1/) | 5 | `variadic-functions` |
+| [Linked List](solutions/go/linked-list/1/) | 5 | `generics`, `variadic-functions` |
 | [POV](solutions/go/pov/1/) | 6 | `variadic-functions` |
 <!-- PROGRESS:END -->
 
