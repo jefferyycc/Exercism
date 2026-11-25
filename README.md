@@ -10,7 +10,7 @@ My solutions to the [Exercism Go track](https://exercism.org/tracks/go), kept as
 - Only my solution files live here; the instructions and tests for each exercise are on exercism.org.
 
 <!-- PROGRESS:START -->
-**Progress:** 35 exercises completed (13 concept · 22 practice) — last updated 2026-11-25.
+**Progress:** 36 exercises completed (13 concept · 23 practice) — last updated 2026-11-25.
 
 ## Concept exercises
 
@@ -47,6 +47,7 @@ Open-ended problems that apply those concepts, sorted by Exercism's difficulty r
 | [Hamming](solutions/go/hamming/1/) | 2 | `basics`, `booleans`, `comparison` |
 | [Leap](solutions/go/leap/1/) | 2 | `basics` |
 | [Luhn](solutions/go/luhn/1/) | 2 | `arithmetic-operators`, `for-loops` |
+| [Scrabble Score](solutions/go/scrabble-score/1/) | 2 | `for-loops`, `maps` |
 | [Anagram](solutions/go/anagram/1/) | 3 | `slices` |
 | [Clock](solutions/go/clock/1/) | 3 | `string-formatting` |
 | [ETL](solutions/go/etl/1/) | 3 | `for-loops`, `slices` |
