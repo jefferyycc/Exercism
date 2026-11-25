@@ -10,7 +10,7 @@ My solutions to the [Exercism Go track](https://exercism.org/tracks/go), kept as
 - Only my solution files live here; the instructions and tests for each exercise are on exercism.org.
 
 <!-- PROGRESS:START -->
-**Progress:** 37 exercises completed (13 concept · 24 practice) — last updated 2026-11-25.
+**Progress:** 38 exercises completed (14 concept · 24 practice) — last updated 2026-11-25.
 
 ## Concept exercises
 
@@ -30,6 +30,7 @@ Guided exercises that each introduce one Go language feature, in track order.
 | [Bird Watcher](solutions/go/bird-watcher/1/) | `for-loops` |
 | [Card Tricks](solutions/go/card-tricks/1/) | `slices`, `variadic-functions` |
 | [Welcome To Tech Palace!](solutions/go/welcome-to-tech-palace/1/) | `strings`, `strings-package` |
+| [Interest is Interesting](solutions/go/interest-is-interesting/1/) | `floating-point-numbers` |
 | [Animal Magic](solutions/go/animal-magic/1/) | `randomness` |
 
 ## Practice exercises
